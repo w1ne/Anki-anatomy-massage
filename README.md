@@ -2,6 +2,7 @@
 Karty do Anki. Mięsnie i koście, poukladane jako material pomoczniczy do kierunku Tehnik Masażysta.
 
 Strona tylna opis w polskim i latynie, strona przednia - obrazek.
+Obrazki i napisy pobrane glownie z Wikipedii, oraz z glębin internetu.
 
 Strona do pobrania aplikacji:
 https://apps.ankiweb.net/
