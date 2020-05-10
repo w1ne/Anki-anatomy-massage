@@ -9,3 +9,12 @@ https://apps.ankiweb.net/
 
 Wersja Android:
 https://play.google.com/store/apps/details?id=com.ichi2.anki
+
+
+# Instrukcja do zastosowania
+1. Pobrać interesujacy plik apkg; 
+2. Zaimportowac w Anki;
+3. Korzystac;
+
+# TODO
+Skonczyc kartki i wylożyć na server anki droid.
