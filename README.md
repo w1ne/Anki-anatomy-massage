@@ -1,4 +1,4 @@
-# Anki kartki do nauczenia sie anatomii.
+# Anki kartki do nauczenia się anatomii.
 Karty do Anki. Mięsnie i koście, poukladane jako material pomoczniczy do kierunku Tehnik Masażysta.
 
 Strona tylna opis w polskim i latynie, strona przednia - obrazek.
