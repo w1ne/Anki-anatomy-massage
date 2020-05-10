@@ -17,4 +17,4 @@ https://play.google.com/store/apps/details?id=com.ichi2.anki
 3. Korzystac;
 
 # TODO
-Skonczyc kartki i wylożyć na server anki droid.
+Skonczyc kartki i wylożyć na server Anki.
